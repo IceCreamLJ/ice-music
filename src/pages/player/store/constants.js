@@ -1,0 +1,6 @@
+export const CHANGE_SONG = 'player/CHANGE_SONG'
+export const CHANGE_PLAY_LIST = 'player/CHANGE_PLAY_LIST'
+export const CHANGE_CURRENT_INDEX = 'player/CHANGE_CURRENT_INDEX'
+export const CHNAGE_MODE_INDEX = 'player/CHANGE_MODE_INDEX'
+export const CHANGE_LYRIC = 'player/CHANGE_LYRIC'
+export const CHANGE_LYRIC_INDEX = 'player/CHNAGE_LYRIC_INDEX'
